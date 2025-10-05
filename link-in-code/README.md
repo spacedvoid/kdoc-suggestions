@@ -9,7 +9,7 @@ format the link to be inside the code block, as the declaration of the class/met
 The following css is recommended to be included as a `styles.css` file for Dokka:
 ```css
 code {
-	padding: 0.3rem;
+	padding: 0.3em;
 }
 ```
 This is because Dokka requires a bit bigger space than normal text because of the underline.
